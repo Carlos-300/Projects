@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Confiteria</string>
+    <string-array name="spnsabor_items">
+        <item>Salado</item>
+        <item>Dulce</item>
+        <item>Agridulce</item>
+        <item>Acido</item>
+    </string-array>
+</resources>
